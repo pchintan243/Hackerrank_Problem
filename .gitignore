@@ -1,0 +1,5 @@
+.vscode/
+*.exe
+check.c
+check.cpp
+check.java
