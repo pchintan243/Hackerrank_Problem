@@ -1,3 +1,8 @@
+/*      Problem:find which one is small triangle and print this triangle in sorting form.
+        p = (a+b+c)/2
+        s = sqrt(p*(p-a)*(p-b)*(p-c));
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
